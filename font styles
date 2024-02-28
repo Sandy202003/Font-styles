@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food</title>
+</head>
+<body style="background-color: burlywood;" >
+    
+    <h1 style=
+            "padding: 20px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-shadow: 5px 5px 10px black;
+            font-size: 35px;
+            color: rgb(1, 1, 8);"
+        >Homemade Food</h1>
+    <h3 style="font-size: 20px;
+    background-color: #5ed618;
+    margin: 11px;
+    padding: 25px;
+    border-radius: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Trendy Homemaking</h3>
+    <p>Homemade food is food that is prepared at home using fresh ingredients rather than store bought or prepackaged meals.</p>
+<p> When cooking homemade food, individuals have the control over the quality and type of ingredients used, making it a healthier option compared to processed foods.</p>
+<h4><br>Why is homemade food trending?<br></h4>
+<ul id="benefits-info">
+    <li><span class="bold"style="margin:0;">Nutritional value in view of the fact that they tend to be more nutritious.  </span></li>
+    <li><span class="bold">Cost effective seeing that its more friendly than dining out.</span>
+    <li><span class="bold">Family bonding because cooking and eating together as a family can strengthen relationships and creat meaningful memories. </span></li>
+    <li><span class="bold">Learning experience given that cooking at home provides an opportunity to earn new recipes,culinary techniques and improve cooking skills</span></li>
+</ul>
+</body>
+</html>
